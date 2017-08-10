@@ -13,63 +13,69 @@ body {
 	font-size: 18px;
 	color: grey;
 
+
 }
 
 header
 {
 	background-color: #ebebeb;
-	height: 100px;
+	height: 50px;
 	width: auto;
 	margin:0 auto;
+	padding-top: 50px;
 
 }
 nav
  {
  	background-color: #ebebeb;
-	height: 100px;
+	height: 50px;
 	width: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	padding-top: 50px;
 }
 
 
 aside{
 	background-color:#ebebeb;
-	height: 280px;
+	height: 350px;
 	width: 400px;
 	margin-top: 15px;
 	float: right;
 	clear: both;
+	padding-top: 50px;
 	
 }
 
 section{
-	height: 280px;
+	height: 350px;
 	width: 540px;
 	background-color: #ebebeb;
 	margin-top: 15px;
-	
+
 
 	position: absolute;
 	float: left;
 	clear: both;
+	padding-top: 50px;
+
 	
 
 }
 
 article{
-	height: 100px;
+	height: 50px;
 	color: #ebebeb;
 	background-color: #777;
-	width: 495px;
-	height: 200px;
+	width: 505px;
+	height: 250px;
 	position: relative;
 	margin-top: 50px;
 	margin-bottom: 15px;
 	margin-right: 150px;
-	padding-top: 35px;
+	padding-top: 50px;
 	margin-left: 20px;
-
+	top: 50px;
 	
 }
 
@@ -80,11 +86,13 @@ h3
 	margin-bottom: 15px;
 	background-color: #ebebeb;
 	bottom:  150px;
+	
 	left:20px;
 	width: 450px;
 	height: 50px;
 	position: relative;
 	margin-left: 20px;
+	padding-top: 10px;
 	
 }
 
@@ -100,15 +108,19 @@ p{
 	height: 50px;
 	position: relative;
 	margin-left: 20px;
+	padding-top: 5px;
+
 
 
 }
 
 footer{
-	height: 100px;
-	bottom: 100px;
-	margin-top: 1px;
 	background-color: #ebebeb;
+	height: 60px;
+	width: auto;
+	padding-top: 25px;
+	bottom: 70px;
 	position: relative;
 	
+
 }
